@@ -21,7 +21,6 @@ Alasan penggunaan Anaconda:
 
 ## Hands On YEAH
 ### Installasi Anaconda
-Anaconda sendiri digunakan untuk 
 1. Membuka website resmi Anaconda https://www.anaconda.com/download
 2. Download Anaconda
 3. Setelah selesai, install Anaconda hingga muncul Anaconda enviroment
